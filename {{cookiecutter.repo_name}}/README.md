@@ -1,5 +1,5 @@
 # {{cookiecutter.repo_name}}
- Welcome to {{cookiecutter.repo_name}}! 
+ Welcome to {{cookiecutter.project_name}}! 
 
  {{cookiecutter.short_description}}
  
