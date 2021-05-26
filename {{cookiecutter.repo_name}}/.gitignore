@@ -154,7 +154,7 @@ Thumbs.db
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Data directory
-# data/
+data/
 
 # TODO file
 # TODO.md   UNCOMMENT ME!
